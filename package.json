@@ -1,6 +1,6 @@
 {
   "name": "ui-text-helper",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "author": "Ali Alizada",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/prince1456/ui-helper"
   },
   "dependencies": {
     "numeral": "^2.0.6"
